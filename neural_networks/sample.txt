@@ -1,0 +1,6 @@
+# Neural network
+
+These are neural network which can be used for temperature fluctuation estimation\
+
+* convolutional neural network
+* wavelet neural network
